@@ -1,0 +1,16 @@
+export const Colors = {
+  bg: '#080c14',
+  surface: 'rgba(255,255,255,0.04)',
+  surfaceHover: 'rgba(255,255,255,0.07)',
+  border: 'rgba(255,255,255,0.08)',
+  borderBright: 'rgba(255,255,255,0.15)',
+  accent: '#f59e0b',
+  accentDim: 'rgba(245,158,11,0.15)',
+  text: '#f1f5f9',
+  muted: '#64748b',
+  mutedDark: '#334155',
+  success: '#10b981',
+  danger: '#ef4444',
+  indigo: '#818cf8',
+  slate: '#94a3b8',
+};
